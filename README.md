@@ -1,5 +1,36 @@
-# FCC Test Suite Template
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+## ProjectReview__Rep
+> This is a trial htmls and css file done in collaboration.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+
+
+## Built With
+
+- html,css
+- git and git hub
+
+
+
+
+## Authors
+
+👤 Addisalem Seifu
+
+- GitHub: [@addisalemseifu](https://github.com/githubhandle)
+- Twitter: [@Addisalem Seifu](https://twitter.com/twitterhandle)
+- LinkedIn: [addisalem seifu](https://linkedin.com/in/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
